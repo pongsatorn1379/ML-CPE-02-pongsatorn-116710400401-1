@@ -1,0 +1,4 @@
+Kernel,Accuracy
+Linear,0.5333333333333333
+Polynomial,0.5333333333333333
+RBF,0.7
