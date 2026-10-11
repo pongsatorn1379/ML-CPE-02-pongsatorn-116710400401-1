@@ -1,4 +1,4 @@
-# LAB 08: Deep Convolutional Neural Network (DCNN)
+# LAB 08:DCNN
 ## ภาษาไทย
 
 นายพงศธร รอดดี 116710400401-1 Sec2
